@@ -95,3 +95,10 @@ p = 4: matchesAt(T, P, i)
 ACBA**DA**
 
 **CB**
+
+### 3. Comparison
+
+<img width="480" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/c2adbcee-61cd-41ad-ad1f-a738ccc7b214" />
+<img width="480" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/e5b35f64-1a30-4657-ab14-a70e641bcf36" />
+<img width="480" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/006ee08e-8aa0-4302-862a-ae1de27d7bef" />
+
